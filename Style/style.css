@@ -1,0 +1,39 @@
+.footer-left {
+    float: left;
+    background-color: rgb(243, 243, 243);
+    font-size: 15px;
+}
+.footer-right {
+    background-color: rgb(243, 243, 243);
+    font-size: 15px;
+}
+.footer-center {
+    background-color: rgb(243, 243, 243);
+    font-size: 15px;
+}
+.header-right {
+    float: right;
+    padding: 25px;
+    font-size: 15px;
+}
+.header-left {
+    float: left;
+    padding: 25px;
+    font-size: 15px;
+}
+.sign-in {
+    background-color: #1a73e8;
+    color: white;
+}
+.leaf {
+    height: 14px;
+    margin-right: 6px;
+    white-space: nowrap;
+}
+.googlelogo {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+}
