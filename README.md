@@ -1,0 +1,1 @@
+Project to replicate the Google homepage showing that I can use the developer tools to figure out things I don't know how to do, as well as demonstrate that I can handle using some html and css.
